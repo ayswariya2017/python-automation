@@ -1,0 +1,37 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables / secrets
+*.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Local data files
+data/
+*.sqlite3
+*.db
+
+# Jupyter stuff
+.ipynb_checkpoints/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
