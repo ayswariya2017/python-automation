@@ -26,3 +26,7 @@ This project automatically reads a CSV file, generates a summary report, and ema
 
 4. Run:
    python daily_report.py
+
+## SCREENSHOTS
+![Terminal Results](output/mail_output.png)
+![Terminal Results](output/terminal.png)
